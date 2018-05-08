@@ -1,3 +1,4 @@
-Hello my name is oskar and I play the guitar. This is more stuff that has been added to the Branch1
+Hello my name is oskar and I play the guitar. This is more stuff that has been added to the master and this is some more text for testing purposes.
+
 
 
